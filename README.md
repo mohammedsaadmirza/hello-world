@@ -1,4 +1,4 @@
 # hello-world
 My first repo
 
-I love :cookie: and :mug: (hot chocolate)
+I love :cookie: and :coffee: (hot chocolate)
